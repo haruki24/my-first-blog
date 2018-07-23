@@ -1,0 +1,47 @@
+html {
+
+    background-color: rgb(240,240,240);
+
+}
+
+body {
+
+    margin: 0 30 0 30;
+
+    background-color: white;
+
+}
+
+h2 {
+
+    margin: 0 0 15 0;
+
+    padding: 20 20 20 20;
+
+    color: #F00;
+
+    font-size: 58px;
+
+}
+
+#title{
+
+  margin: 30 0 0 30;
+
+  color: #00F;
+
+  font-size: 40px;
+
+  padding: 20 20 20 20;
+
+}
+
+#description {
+
+    margin: 20 30 0 30;
+
+    font-size: 30px;
+
+    padding: 20 20 20 20;
+
+}
